@@ -1,0 +1,40 @@
+<!-- The wrapper for our slider-->
+<div class ="slider">
+ <ul class="slides"><!-- Each image will be inside this unordered list --></ul>
+ </div>
+ 
+ <div class="buttons"><!-- Pause and play buttons will go in here --> </div>
+ 
+ </div>
+ 
+ <li class="slide"><imgs src="#"/></li>
+ <li class="slide"><imgs src="#"/></li>
+ <li class="slide"<imgs src="#"/></li>
+ 
+ <button type="button" class="btn btn default pause">
+   <span class="glyphicon glyphicon-pause"></span>
+   </button>
+   <button type="button class="btn btn-default play">
+   <span class="glyphicon glyphicon-play"></span>
+   </button>
+   
+   <div class="container">
+   
+   div class="slider">
+   ul class="slides">
+   <li class="slide"><img src="#"/></li>
+   <li class="slide"><img src="#"/></li>
+   <li class="slide"><img src="#"/></li>
+   
+   </ul>
+   </div>
+   
+   <div class"buttons">
+   <button type="button" class"btn btn-default pause">
+   <span class="glyphicon glyphicon-pause"></span>
+   </button>
+   <button type="button" class="btn btn-default play">
+     <span class=glyphicon glyphicon-play"></span>
+     </button>
+     </div>
+     </div>
